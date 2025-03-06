@@ -22,10 +22,10 @@ Features:
 Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
 
 ```bash
-npm create cloudflare@latest -- --template=cloudflare/templates/astro-cloudflare
+npm create cloudflare@latest -- --template=cloudflare/templates/apps-ai
 ```
 
-A live public deployment of this template is available at [https://astro-cloudflare.templates.workers.dev](https://astro-cloudflare.templates.workers.dev)
+A live public deployment of this template is available at [https://apps-ai.templates.workers.dev](https://apps-ai.templates.workers.dev)
 
 ## 🚀 Project Structure
 
